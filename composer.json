@@ -4,7 +4,7 @@
 	"description": "Add additional SMTP Accounts.",
 	"homepage": "https://github.com/pbanj/additional_smtp",
 	"license": "GPL-3.0-only",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"authors": [
 		{
 			"name": "Gene Hawkins",
