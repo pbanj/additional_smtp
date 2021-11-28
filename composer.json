@@ -1,8 +1,8 @@
 {
-	"name": "texxasrulez/additional_smtp",
+	"name": "pbanj/additional_smtp",
 	"type": "roundcube-plugin",
 	"description": "Add additional SMTP Accounts.",
-	"homepage": "https://github.com/texxasrulez/additional_smtp",
+	"homepage": "https://github.com/pbanj/additional_smtp",
 	"license": "GPL-3.0-only",
 	"version": "0.2.0",
 	"authors": [
@@ -20,7 +20,7 @@
 	],
 	"require": {
 		"php": ">=7.1.0",
-		"roundcube/plugin-installer": "~0.1.6"
+		"roundcube/plugin-installer": "~0.3.1"
 	},
 	"extra": {
 		"roundcube": {
